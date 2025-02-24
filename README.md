@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+#learning code is way above my paygrade 🤷‍♀️
 <!--
 **AshleySchweitzer/AshleySchweitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
